@@ -1,0 +1,25 @@
+C:\Users\Prantik\documents\visual studio 2017\Projects\Mic mute and unmute\Mic mute and unmute\bin\Debug\DLL\CoreAudioApi.dll
+C:\Users\Prantik\documents\visual studio 2017\Projects\Mic mute and unmute\Mic mute and unmute\bin\Debug\DLL\CoreAudioApi.pdb
+C:\Users\Prantik\documents\visual studio 2017\Projects\Mic mute and unmute\Mic mute and unmute\bin\Debug\DLL\MixerNativeLibrary.dll
+C:\Users\Prantik\documents\visual studio 2017\Projects\Mic mute and unmute\Mic mute and unmute\bin\Debug\DLL\MixerNativeLibrary.pdb
+C:\Users\Prantik\documents\visual studio 2017\Projects\Mic mute and unmute\Mic mute and unmute\bin\Debug\DLL\WindowsMicrophoneMuteLibrary.dll
+C:\Users\Prantik\documents\visual studio 2017\Projects\Mic mute and unmute\Mic mute and unmute\bin\Debug\DLL\WindowsMicrophoneMuteLibrary.pdb
+C:\Users\Prantik\documents\visual studio 2017\Projects\Mic mute and unmute\Mic mute and unmute\bin\Debug\Mic mute and unmute.exe.config
+C:\Users\Prantik\documents\visual studio 2017\Projects\Mic mute and unmute\Mic mute and unmute\bin\Debug\Mic mute and unmute.exe.manifest
+C:\Users\Prantik\documents\visual studio 2017\Projects\Mic mute and unmute\Mic mute and unmute\bin\Debug\Mic mute and unmute.application
+C:\Users\Prantik\documents\visual studio 2017\Projects\Mic mute and unmute\Mic mute and unmute\bin\Debug\Mic mute and unmute.exe
+C:\Users\Prantik\documents\visual studio 2017\Projects\Mic mute and unmute\Mic mute and unmute\bin\Debug\Mic mute and unmute.pdb
+C:\Users\Prantik\documents\visual studio 2017\Projects\Mic mute and unmute\Mic mute and unmute\bin\Debug\WindowsMicrophoneMuteLibrary.dll
+C:\Users\Prantik\documents\visual studio 2017\Projects\Mic mute and unmute\Mic mute and unmute\bin\Debug\CoreAudioApi.dll
+C:\Users\Prantik\documents\visual studio 2017\Projects\Mic mute and unmute\Mic mute and unmute\bin\Debug\MixerNativeLibrary.dll
+C:\Users\Prantik\documents\visual studio 2017\Projects\Mic mute and unmute\Mic mute and unmute\bin\Debug\WindowsMicrophoneMuteLibrary.pdb
+C:\Users\Prantik\documents\visual studio 2017\Projects\Mic mute and unmute\Mic mute and unmute\bin\Debug\CoreAudioApi.pdb
+C:\Users\Prantik\documents\visual studio 2017\Projects\Mic mute and unmute\Mic mute and unmute\bin\Debug\MixerNativeLibrary.pdb
+C:\Users\Prantik\documents\visual studio 2017\Projects\Mic mute and unmute\Mic mute and unmute\obj\Debug\Mic_mute_and_unmute.Form1.resources
+C:\Users\Prantik\documents\visual studio 2017\Projects\Mic mute and unmute\Mic mute and unmute\obj\Debug\Mic_mute_and_unmute.MicMuteUnmute.resources
+C:\Users\Prantik\documents\visual studio 2017\Projects\Mic mute and unmute\Mic mute and unmute\obj\Debug\Mic_mute_and_unmute.Properties.Resources.resources
+C:\Users\Prantik\documents\visual studio 2017\Projects\Mic mute and unmute\Mic mute and unmute\obj\Debug\Mic mute and unmute.csproj.GenerateResource.Cache
+C:\Users\Prantik\documents\visual studio 2017\Projects\Mic mute and unmute\Mic mute and unmute\obj\Debug\Mic mute and unmute.exe.manifest
+C:\Users\Prantik\documents\visual studio 2017\Projects\Mic mute and unmute\Mic mute and unmute\obj\Debug\Mic mute and unmute.application
+C:\Users\Prantik\documents\visual studio 2017\Projects\Mic mute and unmute\Mic mute and unmute\obj\Debug\Mic mute and unmute.exe
+C:\Users\Prantik\documents\visual studio 2017\Projects\Mic mute and unmute\Mic mute and unmute\obj\Debug\Mic mute and unmute.pdb
