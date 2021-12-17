@@ -1,2 +1,2 @@
 # MicrophoneMute-Unmute
-A simple program to mute and unmue the microphone with hotkeys.
+A simple program to mute and unmute the microphone with hotkeys.
